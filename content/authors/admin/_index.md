@@ -153,7 +153,10 @@ Awards :
 
   - title: Academic Excellence Scholarship (Three consecutive years)  
     url: 
-    date: 2018-06-30 & 2019-06-30 & 2020-06-30
+    date: 
+      - 2018-06-30
+      - 2019-06-30
+      - 2020-06-30
     awarder: School
     icon: 
     summary: |
@@ -165,7 +168,10 @@ Awards :
   - title: Outstanding Student Cadres (Three consecutive years)    
     url: 
     certificate_url: 
-    date: 2018-06-30 & 2019-06-30 & 2020-06-30
+    date: 
+      - 2018-06-30
+      - 2019-06-30
+      - 2020-06-30
     awarder: School
     icon: 
     summary: |
@@ -188,7 +194,9 @@ COMPETITIONS :
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: GIS Skills Competition for College Students in Anhui Province
     url: 
-    date: 2019-06-30 & 2020-06-30
+    date: 
+      - 2019-06-30
+      - 2020-06-30
     awarder:  
     icon: Second Prize 
     summary: |
