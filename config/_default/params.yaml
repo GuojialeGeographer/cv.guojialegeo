@@ -4,6 +4,12 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+
+theme: Minimul
+day_night: true
+font: ''
+font_size: L
+
 appearance:
   mode: system
   color: emerald
@@ -35,7 +41,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Jiale Guo"
 
 # Site footer
 footer:
@@ -47,10 +53,32 @@ footer:
       share_alike: true
       allow_commercial: false
 
+# Contact (edit or remove options as required)
+
+email: jiale.guo@mail.polimi.it
+
+address:
+  street: Via Leonardo da Vinci, 32, Milano
+  city: Milano
+  region: MI
+  postcode: '20133'
+  country: italy
+  country_code: IT
+coordinates:
+  latitude: '45.4781'
+  longitude: '9.2289'
+directions: Politecnico Di Milano
+office_hours:
+  - 'Monday 10:00 to 22:00'
+appointment_url: 'https://calendly.com'
+# contact_links:
+
+
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 features:
@@ -58,3 +86,26 @@ features:
     enable: false
   privacy_pack:
     enable: false
+highlight: true
+highlight_languages:
+  - r
+  - python
+  - latex
+
+# Map
+map:
+  provider: mapnik
+  api_key: ''
+  zoom: 15
+marketing:
+  google_analytics: 'G-T227S0TWG8'
+  google_tag_manager: ''
+  google_site_verification: ''
+  baidu_site_verification: ''
+  baidu_tongji: ''
+cms:
+  branch: master
+  local_backend: false
+icon:
+  pack:
+    ai: true
