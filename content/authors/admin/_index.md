@@ -54,7 +54,7 @@ interests:
 EDUCATION:
   - area: MSc in Geoinformatics Engineering
     institution: Politecnico di Milano
-    year: 2024.9--now
+    year: 2024-09-01--now
     summary: |
       GPA:   28.00/30.00;
 
@@ -64,8 +64,8 @@ EDUCATION:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc in Geography
     institution: Chuzhou University
-    date_start: 2017-09
-    date_end: 2021-06
+    date_start: 2017-09-01
+    date_end: 2021-06-30
     summary: |
       GPA: 84.85/100; 
       Ranking: 3/60 (2017 - 2018) ; 8/56 (2018 - 2019) ; 1/56 (2019 - 2020) 
@@ -79,8 +79,8 @@ WORK EXPERIENCE:
     company_name: Industrial Park Surveying and Mapping Geographic Information Technology Co., Ltd.
     company_url: 'https://www.dpark.com.cn/'
     company_logo: ''
-    date_start: 2023-01
-    date_end: 2024-07
+    date_start: 2023-01-01
+    date_end: 2024-07-31
     summary: |
       Responsibilities include:
       - Based on high-deinition remote sensing images of Suzhou City, conduct visual interpretation to determine the scope of forests, grasslands, and wetlands, and carry out the segmentation and processing of the identiied patches.
@@ -89,8 +89,8 @@ WORK EXPERIENCE:
     company_name: Chuzhou Municipal Public Utility Engineering Co., Ltd. (Urban Water Supply)     
     company_url: ''
     company_logo: ''
-    date_start: 2021-03
-    date_end: 2021-05
+    date_start: 2021-03-01
+    date_end: 2021-05-31
     summary: |
       Responsibilities include:
       - Use GPS to collect geospatial positional data of urban drainage pipes, perform data cleaning and preprocessing, conduct geospatial buffer analysis, and work on map visualization.
@@ -146,14 +146,14 @@ Awards :
 
   - title: Excellent Graduation Thesis of Chuzhou University (Top 3%) 
     url: 
-    date: 2021
+    date: 2021-06-30
     awarder: School
     icon: 
     summary: |
 
   - title: Academic Excellence Scholarship (Three consecutive years)  
     url: 
-    date: 2018 & 2019 & 2020
+    date: 2018-06-30 & 2019-06-30 & 2020-06-30
     awarder: School
     icon: 
     summary: |
@@ -165,7 +165,7 @@ Awards :
   - title: Outstanding Student Cadres (Three consecutive years)    
     url: 
     certificate_url: 
-    date: 2018 & 2019 & 2020
+    date: 2018-06-30 & 2019-06-30 & 2020-06-30
     awarder: School
     icon: 
     summary: |
@@ -173,7 +173,7 @@ Awards :
   - title: National Encouragement Scholarship, Education Department of Anhui Province (Top 3%)
     url: 
     certificate_url: 
-    date: 2020
+    date: 2020-06-30
     awarder: 
     icon: Third Prize 
 
@@ -181,14 +181,14 @@ COMPETITIONS :
 
   - title: ”Esri” College Students GIS Software Development Competition in China
     url: 
-    date: '2022'
+    date: '2022-06-30'
     awarder: Esri
     icon: Third Prize 
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: GIS Skills Competition for College Students in Anhui Province
     url: 
-    date: 2019 & 2020
+    date: 2019-06-30 & 2020-06-30
     awarder:  
     icon: Second Prize 
     summary: |
@@ -199,7 +199,7 @@ COMPETITIONS :
   - title: The 5th China University Geography Science Exhibition Competition
     url: 
     certificate_url: 
-    date: 2019
+    date: 2019-06-30
     awarder: 
     icon: Third Prize 
     summary: |
