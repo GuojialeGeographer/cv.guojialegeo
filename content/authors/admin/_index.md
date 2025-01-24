@@ -151,31 +151,57 @@ Awards :
     icon: 
     summary: |
 
-  - title: Academic Excellence Scholarship (Three consecutive years)  
+  - title: Academic Excellence Scholarship (Year 2018)
     url: 
-    date: 
-      - 2018-06-30
-      - 2019-06-30
-      - 2020-06-30
+    date: 2018-06-30
     awarder: School
     icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  
-  - title: Outstanding Student Cadres (Three consecutive years)    
+      Awarded for academic excellence in 2018.
+
+  - title: Academic Excellence Scholarship (Year 2019)
+    url: 
+    date: 2019-06-30
+    awarder: School
+    icon: 
+    summary: |
+      Awarded for academic excellence in 2019.
+
+  - title: Academic Excellence Scholarship (Year 2020)
+    url: 
+    date: 2020-06-30
+    awarder: School
+    icon: 
+    summary: |
+      Awarded for academic excellence in 2020.
+
+  - title: Outstanding Student Cadres (Year 2018)
     url: 
     certificate_url: 
-    date: 
-      - 2018-06-30
-      - 2019-06-30
-      - 2020-06-30
+    date: 2018-06-30
     awarder: School
     icon: 
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Recognized as an outstanding student cadre in 2018.
+
+  - title: Outstanding Student Cadres (Year 2019)
+    url: 
+    certificate_url: 
+    date: 2019-06-30
+    awarder: School
+    icon: 
+    summary: |
+      Recognized as an outstanding student cadre in 2019.
+
+  - title: Outstanding Student Cadres (Year 2020)
+    url: 
+    certificate_url: 
+    date: 2020-06-30
+    awarder: School
+    icon: 
+    summary: |
+      Recognized as an outstanding student cadre in 2020.
+
   - title: National Encouragement Scholarship, Education Department of Anhui Province (Top 3%)
     url: 
     certificate_url: 
@@ -183,7 +209,21 @@ Awards :
     awarder: 
     icon: Third Prize 
 
-COMPETITIONS :
+  - title: GIS Skills Competition for College Students in Anhui Province (Year 2019)
+    url: 
+    date: 2019-06-30
+    awarder: 
+    icon: Second Prize 
+    summary: |
+      Participated and won second prize in 2019.
+
+  - title: GIS Skills Competition for College Students in Anhui Province (Year 2020)
+    url: 
+    date: 2020-06-30
+    awarder: 
+    icon: Second Prize 
+    summary: |
+      Participated and won second prize in 2020.
 
   - title: ”Esri” College Students GIS Software Development Competition in China
     url: 
@@ -192,18 +232,7 @@ COMPETITIONS :
     icon: Third Prize 
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: GIS Skills Competition for College Students in Anhui Province
-    url: 
-    date: 
-      - 2019-06-30
-      - 2020-06-30
-    awarder:  
-    icon: Second Prize 
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+
   - title: The 5th China University Geography Science Exhibition Competition
     url: 
     certificate_url: 
@@ -212,6 +241,9 @@ COMPETITIONS :
     icon: Third Prize 
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
+COMPETITIONS :
+
 ---
 
 ## About Me
